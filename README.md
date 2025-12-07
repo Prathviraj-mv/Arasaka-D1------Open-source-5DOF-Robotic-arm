@@ -1,5 +1,6 @@
 # Arasaka-D1 
 # Open-source-5DOF-Robotic-arm
+<img width="1920" height="1080" alt="assembled v12" src="https://github.com/user-attachments/assets/6b4daf85-84ee-402a-81fa-c6d9e39256c5" />
 
 # CAD
 
