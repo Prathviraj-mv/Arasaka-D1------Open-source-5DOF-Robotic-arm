@@ -7,7 +7,7 @@
 | <img src= "IMAGES/Screenshot 2025-12-04 160019.png" >| <img src= "IMAGES/Screenshot 2025-12-06 165035.png">|
 | --------------------------- | --------------------------- |
 
-(4+2 )DOF extender
+# (4+2 )DOF extender
 <img width="1091" height="651" alt="image" src="IMAGES/Screenshot 2025-12-19 200118.png" />
 
 
